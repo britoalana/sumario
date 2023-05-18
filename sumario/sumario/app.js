@@ -49,9 +49,7 @@ const itens = [
   
       //retorna todas essas informações de todos os objetos 
     })
-  
-      //retorna todas essas informações de todos os objetos 
-    })
+
     displayMenu = displayMenu.join("")
     //trasnforma tudo em texto
     menuItem.innerHTML = displayMenu
